@@ -67,7 +67,7 @@ SubmitButton.MouseButton1Click:Connect(function()
         KeyFrame:Destroy()  -- Remove key UI
         MainFrame.Visible = true  -- Show Auto Farm UI
         print("Key correct! UI unlocked.")
-        loadstring(game:HttpGet("https://pastebin.com/raw/G198kCd2", true))() -- Load your ESP script
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/werumZov/DeadRailsRB/refs/heads/main/RaitlHub.lua", true))() -- Load your ESP script
     else
         KeyTextBox.Text = "Wrong key!"
         wait(1)
