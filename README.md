@@ -1,9 +1,6 @@
-# RaitlHub
+# KeySystem for RaitlHub
 
-*script for dead rails*
-
-
-*IN DEV!!!!!!!!!!*
+*SCRIPT IN DEV!!!!!!!!!!*
 
 
 telegram: @TwoHubs
